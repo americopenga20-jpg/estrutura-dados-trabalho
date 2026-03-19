@@ -9,7 +9,7 @@ Comparação de Algoritmos de Ordenação
 
 ## Universidade
 Universidade Licungo  
-Departamento de Ciências e Tecnologias  
+faculdade de Ciências e Tecnologias  
 Ano: 2º Ano  
 
 Disciplina: Estruturas de Dados e Algoritmos  

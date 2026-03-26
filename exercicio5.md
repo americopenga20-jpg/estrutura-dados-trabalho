@@ -1,8 +1,8 @@
 
 # Exercício 5
 
-Pergunta relacionada com algoritmos de ordenação e análise de complexidade.
+Por que o Bubble Sort é considerado ineficiente?
 
-## Resposta
+# Resposta:
 
-Explicação da solução do exercício 5.
+O Bubble Sort é considerado ineficiente porque realiza muitas trocas e comparações repetidas. Ele compara elementos vizinhos e troca sempre que necessário, o que pode resultar em várias passagens pelo vetor.

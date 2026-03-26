@@ -1,8 +1,11 @@
 
 # Exercício 2
 
-Ordenar um vetor de 5 números inteiros em ordem crescente usando Insertion Sort.
+O que significa dizer que um algoritmo de ordenação é estável? Dê exemplo.
 
-## Resposta
+# Resposta:
 
-Explicação da solução do exercício 2.
+Um algoritmo é estável quando mantém a ordem relativa dos elementos iguais após a ordenação.
+
+Exemplo:
+Se temos `[5a, 3, 5b]`, onde `5a` e `5b` são iguais, um algoritmo estável mantém `5a` antes de `5b` após ordenar.

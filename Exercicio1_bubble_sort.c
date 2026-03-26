@@ -12,6 +12,8 @@ int main(){
             }
         }
     }
-    for(i = 0; i < 5; i++) printf("%d ", v[i]);
+    printf("Resultado ordenado:\n");
+    for(i = 0; i < 5; i++) 
+        printf("%d ", v[i]);
     return 0;
 }

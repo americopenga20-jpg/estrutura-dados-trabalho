@@ -1,7 +1,7 @@
 
 # Exercício 3
 
-Pergunta relacionada com algoritmos de ordenação e análise de complexidade.
+Ordenar um vetor de 6 números inteiros em ordem crescente usando Selection Sort.
 
 ## Resposta
 

@@ -1,7 +1,7 @@
 
 # Exercício 1
 
-Pergunta relacionada com algoritmos de ordenação e análise de complexidade.
+Ordenar um vetor de 5 números inteiros em ordem crescente usando Bubble Sort.
 
 ## Resposta
 

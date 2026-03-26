@@ -1,8 +1,8 @@
 
 # Exercício 4
 
-Pergunta relacionada com algoritmos de ordenação e análise de complexidade.
+Explique quando NÃO se deve usar Bubble Sort.
 
-## Resposta
+# Resposta:
 
-Explicação da solução do exercício 4.
+O Bubble Sort não deve ser usado em aplicações reais com grandes volumes de dados ou quando desempenho é importante.

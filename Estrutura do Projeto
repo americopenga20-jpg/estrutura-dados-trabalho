@@ -1,0 +1,19 @@
+estrutura-dados-trabalho/
+│
+├── README.md
+├── RELATORIO/
+│   └── relatorio.md
+├── CODIGO/
+│   ├── main.c
+│   ├── funcoes.c
+│   └── funcoes.h
+├── EXERCICIOS/
+│   ├── exercicio1.md
+│   ├── exercicio2.md
+│   ├── exercicio3.md
+│   ├── exercicio4.md
+│   ├── exercicio5.md
+│   ├── exercicio6.md
+│   └── exercicio7.md
+└── DOCUMENTACAO/
+    └── analise_complexidade.md

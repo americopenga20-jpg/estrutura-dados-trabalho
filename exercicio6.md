@@ -1,8 +1,12 @@
+Qual algoritmo é mais eficiente para vetores quase ordenados?
+ Resposta
 
-# Exercício 6
+O Insertion Sort.
 
-Pergunta relacionada com algoritmos de ordenação e análise de complexidade.
+ Explicação
 
-## Resposta
+Ele faz poucas comparações quando os dados já estão quase organizados.
 
-Explicação da solução do exercício 6.
+Conclusão
+
+É ideal para pequenos conjuntos de dados.

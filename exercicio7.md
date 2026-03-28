@@ -1,8 +1,12 @@
+Por que é importante comparar algoritmos de ordenação?
+ Resposta
 
-# Exercício 7
+Para escolher o algoritmo mais eficiente.
+ Explicação
 
-Pergunta relacionada com algoritmos de ordenação e análise de complexidade.
+Cada algoritmo tem desempenho diferente dependendo do tipo de dados.
+ Conclusão
 
-## Resposta
+A comparação ajuda a melhorar o desempenho dos programas.
 
-Explicação da solução do exercício 7.
+⸻
